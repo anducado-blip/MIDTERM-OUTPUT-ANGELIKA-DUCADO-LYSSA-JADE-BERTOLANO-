@@ -1,0 +1,2 @@
+# MIDTERM-OUTPUT-ANGELIKA-DUCADO-LYSSA-JADE-BERTOLANO-
+Midterm Output - Java OOP Food Classifier
